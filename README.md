@@ -7,3 +7,4 @@ we can navigate to the Blog using the blog link in the navigation section or we 
 The web page is About the three major Processor Manufactorer: AMD, Intel and Nvidia. the blog contains details of this manufactoring companies.
 The AboutMe link describes developer's educational Status and area of interest in the field of application development.
 this project uses ReactJS to create components. this components are used to Display an Static Web Blog.
+link to the Screencast https://screencast-o-matic.com/watch/cFfQcMDMfs
